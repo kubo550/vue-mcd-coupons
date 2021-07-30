@@ -4,6 +4,8 @@
 
 ## Preview
 
+Live preview on [Codesandbox](https://k8h8v.csb.app/)
+
 ![preview](https://raw.githubusercontent.com/kubo550/vue-mcd-coupons/master/mcd-vue-preview.png)
 ![result](https://raw.githubusercontent.com/kubo550/vue-mcd-coupons/master/mcd-vue-preview1.png)
 
