@@ -1,20 +1,10 @@
 # mcd-coupon
 
-Quick app to generate for you coupon from McDonalds. You can get food like hamburger, chips, icecreams etc.
-## Project setup
-```
-yarn install
-```
+## Tech stack
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Preview 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
